@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microsftteams", "microsftteams\microsftteams.csproj", "{E8032D40-C7D3-4160-98AF-496570C033C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		x64|Any CPU = x64|Any CPU
+		x64|x64 = x64|x64
+		x64|x86 = x64|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Debug|Any CPU.ActiveCfg = x64|Any CPU
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Debug|Any CPU.Build.0 = x64|Any CPU
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Debug|x64.ActiveCfg = x64|x64
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Debug|x64.Build.0 = x64|x64
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Debug|x86.ActiveCfg = x64|x86
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Debug|x86.Build.0 = x64|x86
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Release|Any CPU.ActiveCfg = x64|Any CPU
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Release|Any CPU.Build.0 = x64|Any CPU
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Release|x64.ActiveCfg = x64|x64
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Release|x64.Build.0 = x64|x64
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Release|x86.ActiveCfg = x64|x86
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.Release|x86.Build.0 = x64|x86
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.x64|Any CPU.ActiveCfg = x64|Any CPU
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.x64|Any CPU.Build.0 = x64|Any CPU
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.x64|x64.ActiveCfg = x64|x64
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.x64|x64.Build.0 = x64|x64
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.x64|x86.ActiveCfg = x64|x86
+		{E8032D40-C7D3-4160-98AF-496570C033C1}.x64|x86.Build.0 = x64|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8BC693A-D82E-4F74-B311-6E4885684984}
+	EndGlobalSection
+EndGlobal
